@@ -1,5 +1,5 @@
 # Challenge to decipher this file
-This is a challenge to decipher a proprietary binary file. The file was created by me using an instrument of a commercial vendor. For interoperability, I want to read all the content of the measurement.
+This is a challenge to decipher a proprietary binary file "FS1.mss". The file was created by me using an instrument of a commercial vendor. For interoperability, I want to read all the content of the measurement.
 
 What I gathered:
 - The file is an OLE2 compound document storage and there are multiple separately compressed streams inside. The streams start with either of two byte-sequences. 
